@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ciclo de Vida</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="go_to_1">Ir Pantalla 1</string>
+    <string name="go_to_2">Ir Pantalla 2</string>
+    <string name="activity_2">Pantalla 2</string>
+    <string name="activity_1">Pantalla 1</string>
+
+</resources>
